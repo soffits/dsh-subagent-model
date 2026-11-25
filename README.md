@@ -1,3 +1,5 @@
+> **Moved.** This plugin is now part of [@soffits/dsh-web-tweaks](https://github.com/soffits/dsh-web-tweaks) (`features/subagent-model`), with its history. This repository is archived.
+
 # dsh-subagent-model
 
 In the DeepSeek Harness (DSH) Web UI, a normal session shows its model at the lower right of the composer ("Claude Opus 5.5 high"). A subagent session shows nothing there: the model picker hides itself, because a subagent's model can't be switched, and the model name goes with it.
